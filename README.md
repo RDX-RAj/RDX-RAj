@@ -283,13 +283,13 @@
   <a href="https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-   <a href="https://www.instagram.com/vdjrajofficial">
+   <a href="https://www.instagram.com/oye_raj29">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/vdjrajofficial">
+   <a href="https://facebook.com/oye_raj29">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="https://twitter.com/vdjrajofficial">
+   <a href="https://twitter.com/oye_raj29">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
